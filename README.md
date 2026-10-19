@@ -33,7 +33,7 @@ Banks perform **maturity transformation**: they take deposits that can be withdr
 ## How to run
 
 ```bash
-git clone https://github.com/Asimorenitoo/bank-run-game-theory.git
+git clone https://github.com/AsierLoz13/bank-run-game-theory.git
 cd bank-run-game-theory
 python -m venv .venv
 # Windows: .venv\Scripts\activate    macOS/Linux: source .venv/bin/activate
@@ -59,4 +59,4 @@ Open `notebooks/01_juego_estatico.ipynb` and run all cells; figures are saved to
 
 ## Author
 
-**Asier Lozano Nebreda**, Mathematical Engineering, Universidad Francisco de Vitoria. [LinkedIn](https://www.linkedin.com/in/asier-lozano-nebreda-205750230/)
+**Asier Lozano Nebreda**, Mathematical Engineering, Universidad Francisco de Vitoria. [LinkedIn](https://www.linkedin.com/in/asier-lozano-nebreda/)
